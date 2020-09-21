@@ -57,3 +57,7 @@ header.startup h1 {
   cursor: pointer;
 }
   
+.clear {
+  justify-content: center;
+  align-items: center;
+}
